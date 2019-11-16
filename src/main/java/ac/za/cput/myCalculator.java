@@ -1,6 +1,6 @@
 package ac.za.cput;
 
-public interface myCalculator {
+public interface MyCalculator {
 
     int square(int x);
 }
