@@ -1,6 +1,6 @@
 package ac.za.cput;
 
-public class CalculatorReloaded implements myCalculator {
+public class CalculatorReloaded implements MyCalculator {
 
     @Override
     public int square(int x)
